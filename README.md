@@ -1,5 +1,5 @@
 # Online_Pharmaceutical-Sentiment-Reviews
-This notebook is to analyse the sentiment of the drug users, according to reiews and various other features like the condition they are suffering from, the rating of the drugs used, data of the usage and others.
+This notebook is to analyse the sentiment of the drug users, according to reiews and various other features like the condition they are suffering from, the rating of the drugs used, data of the usage and others. Feature engineering will be perform to help predict the sentiments of the online customers based on their reviews, conditions and other variables.
 
            uniqueID         rating    usefulCount
 count  161297.000000  161297.000000  161297.000000
